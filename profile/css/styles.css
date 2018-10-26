@@ -60,7 +60,6 @@ body {
   repeat(4, 180px);
   grid-template-columns:
   repeat(3, 1fr);
-  grid-gap: 5px;
   zoom: 140%;
 }
 
